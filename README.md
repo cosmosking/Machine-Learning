@@ -1,4 +1,4 @@
 # Machine-Learning
 
 ## Description:
-This repository will be used to share code which is machine learning course of Andrew Ng.
+This code repository is used to share programming tasks in Andrew Ng's Machine Learning course.
